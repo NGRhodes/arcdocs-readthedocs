@@ -2,8 +2,11 @@ Welcome
 =======
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+
+   index
+   start
+   request_hpc_acct
+   request_install
 
 Welcome to the Documentation site for the High Performance Computing
 facilities (ARC3 and ARC4) provided by the `Research Computing Team`_ at
