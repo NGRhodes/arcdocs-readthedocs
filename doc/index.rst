@@ -1,13 +1,6 @@
 Welcome
 =======
 
-.. toctree::
-
-   index
-   start
-   request_hpc_acct
-   request_install
-
 Welcome to the Documentation site for the High Performance Computing
 facilities (ARC3 and ARC4) provided by the `Research Computing Team`_ at
 the `University of Leeds`_.
@@ -32,5 +25,14 @@ How to use the module system
 .. _getting started section: ./start
 
 
+Table of Contents
+-----------------
+
+.. toctree::
+
+   index
+   start
+   request_hpc_acct
+   request_install
 
 
