@@ -1,20 +1,37 @@
-.. Arc Docs documentation master file, created by
-   sphinx-quickstart on Wed Jul  1 15:23:52 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to Arc Docs's documentation!
-====================================
+Welcome
+=======
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
 
+Welcome
+=======
 
-Indices and tables
-==================
+Welcome to the Documentation site for the High Performance Computing
+facilities (ARC3 and ARC4) provided by the `Research Computing Team`_ at
+the `University of Leeds`_.
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+You can find information on this site about how to use these services,
+request training and support, information about installed applications
+and documentation around are system specification.
+
+Getting started
+---------------
+
+Some stuff about how to get started and links to the `getting started
+section`_ goes here.
+
+Software
+--------
+
+How to use the module system
+
+.. _Research Computing Team: https://arcleeds.github.io
+.. _University of Leeds: https://www.leeds.ac.uk
+.. _getting started section: ./start
+
+
+
+
