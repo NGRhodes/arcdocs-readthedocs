@@ -5,10 +5,6 @@ Welcome
    :maxdepth: 2
    :caption: Contents:
 
-
-Welcome
-=======
-
 Welcome to the Documentation site for the High Performance Computing
 facilities (ARC3 and ARC4) provided by the `Research Computing Team`_ at
 the `University of Leeds`_.
