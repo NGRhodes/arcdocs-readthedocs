@@ -30,9 +30,5 @@ Table of Contents
 
 .. toctree::
 
-   index
-   start
-   request_hpc_acct
-   request_install
 
 
